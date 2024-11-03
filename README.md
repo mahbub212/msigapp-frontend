@@ -1,13 +1,13 @@
-MSIG front-end Application 
+# MSIG front-end Application 
 
 This code explain using CRUD with java spring boot as backend and react.js as frontend.
 
-Setup Instruction
+# Setup Instruction
 1. Install Node.js the latest
 2. Install Visual Studio Code the latest
 3. Install MySQL
 
-Create React.js Project
+# Create React.js Project
 Running if you using Windows OS
 1. C:\npm create vite@latest msigapp-frontend
    Select a framework:
